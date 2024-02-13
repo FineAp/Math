@@ -46,4 +46,5 @@ KOREA BLOG: https://blog.naver.com/dlgidgkr/223351951150
 
 BUILD LINK: https://drive.google.com/drive/folders/1GaMQ_UgTIPeJjXIhAOuL_onvH-kl9cdl?usp=drive_link
 
-https://github.com/FineAp/Math/issues/1#issue-2131362342
+![스크린샷 2024-02-13 113013](https://github.com/FineAp/Math/assets/143973266/adc2c1de-0f62-4e6e-b419-b498ccfd949b)
+
