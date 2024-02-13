@@ -45,3 +45,5 @@ This naturally enhances children's mathematical abilities.
 KOREA BLOG: https://blog.naver.com/dlgidgkr/223351951150
 
 BUILD LINK: https://drive.google.com/drive/folders/1GaMQ_UgTIPeJjXIhAOuL_onvH-kl9cdl?usp=drive_link
+
+https://github.com/FineAp/Math/issues/1#issue-2131362342
